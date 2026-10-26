@@ -2,10 +2,9 @@
 
 Todos los cambios importantes de este proyecto se registran en este archivo.
 El formato sigue Keep a Changelog y el proyecto usa versionado semántico.
-
 ## [Unreleased]
 
-## [0.2.0] - AAAA-MM-DD
+
 ### Added
 - Campo is_active en usuarios
 - …(lo que estaba en Unreleased)
